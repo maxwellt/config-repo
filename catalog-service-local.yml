@@ -1,7 +1,7 @@
 polar:
   testdata:
     enabled: true
-  greeting: Welcome to the local (from config service) Polar Catalog Service 
+  greeting: Welcome to the local (from config service) Polar Catalog Service (test2) 
 spring:
   cloud:
     config:
